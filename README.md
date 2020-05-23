@@ -5,3 +5,4 @@
 點此連結可線上試讀：<https://leanpub.com/dotnet-async/read_sample>
 
 如果對本書或範例程式有任何疑問或建議，歡迎透過 GitGub 的 Issues 功能讓我知道。或者，也可以直接修改範例程式，然後發 pull request。
+[![Run on Repl.it](https://repl.it/badge/github/sdr40725/async-book-support)](https://repl.it/github/sdr40725/async-book-support)
